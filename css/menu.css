@@ -1,0 +1,12 @@
+nav {
+    background-color: var(--color3);
+    padding: 10px 20px;
+    border-radius: 0px 0px 16px 16px;
+    display: flex  ;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
